@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace KielD01\PhoneValidation;
+namespace KielD01\PhoneValidation\Providers;
 
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
