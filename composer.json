@@ -1,0 +1,27 @@
+{
+	"name": "kield-01/laravel-phone-validation",
+	"description": "Phone validation for Laravel",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Roman Kozin",
+			"email": "romanko95.rk@gmail.com"
+		}
+	],
+	"require": {
+		"php": "7.*|8.*",
+		"laravel/framework": "6.*|7.*|8.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"KielD01\\PhoneValidation\\": "./src/"
+		}
+	},
+	"extra": {
+		"laravel" : {
+			"providers": [
+				"KielD01\\PhoneValidation\\ValidationServiceProvider"
+			]
+		}
+	}
+}
