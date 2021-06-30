@@ -42,5 +42,5 @@ return [
 
 ## Available Validation rules
 
-[ x ] [phone_world](src/Providers/ValidationServiceProvider.php#L23)     
-[ x ] [phone_cis](src/Providers/ValidationServiceProvider.php#L30)   
+- [x] [phone_world](src/Providers/ValidationServiceProvider.php#L23)     
+- [x] [phone_cis](src/Providers/ValidationServiceProvider.php#L30)   
