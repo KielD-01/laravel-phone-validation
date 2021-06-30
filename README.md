@@ -1,5 +1,10 @@
 # Laravel Phone Validation
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/KielD-01/laravel-phone-validation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/KielD-01/laravel-phone-validation/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/KielD-01/laravel-phone-validation/badges/build.png?b=master)](https://scrutinizer-ci.com/g/KielD-01/laravel-phone-validation/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/KielD-01/laravel-phone-validation/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
+
 ## Installation
 
 `composer require kield-01/laravel-phone-validation`
