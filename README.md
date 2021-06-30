@@ -34,7 +34,7 @@ If You have this package to be non-discoverable, then You would need to register
 
 return [
     'providers' => [
-        KielD01\PhoneValidation\ValidationServiceProvider::class,    
+        KielD01\PhoneValidation\Providers\ValidationServiceProvider::class,    
     ]   
 ];
 

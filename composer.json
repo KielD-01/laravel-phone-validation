@@ -20,7 +20,7 @@
 	"extra": {
 		"laravel" : {
 			"providers": [
-				"KielD01\\PhoneValidation\\ValidationServiceProvider"
+				"KielD01\\PhoneValidation\\Providers\\ValidationServiceProvider"
 			]
 		}
 	}
